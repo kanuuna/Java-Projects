@@ -1,0 +1,5 @@
+package banksystem;
+
+interface Everyday {
+	
+}
